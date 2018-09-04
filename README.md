@@ -1,4 +1,12 @@
 # clevo_fan_control
 Clevo fan control on linux. From https://github.com/SkyLandTW/ClevoECView/blob/master/fanctrl.c.
 
-Just added a line to make it work for another fan on my laptop.
+Added a line to make it work for both fans on my laptop.
+
+Compiled using gcc and Tested on Clevo P750DMG.
+
+# Usage
+    
+    ./fanctrl N
+    
+  where N is a number between 0 and 100.
