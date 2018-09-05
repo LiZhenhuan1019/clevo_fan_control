@@ -3,7 +3,7 @@ Clevo fan control on linux. From https://github.com/SkyLandTW/ClevoECView/blob/m
 
 Added a line to make it work for both fans on my laptop.
 
-Compiled using gcc and Tested on Clevo P750DMG.
+Compiled using gcc and tested on Clevo P750DMG.
 
 # Usage
     
